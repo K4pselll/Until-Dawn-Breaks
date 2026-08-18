@@ -8,7 +8,7 @@ Recommended players: 4 (minimum 2)
 ---
 
 ## Overview
-Until Dawn Breaks is an asymmetric survival/adventure map built for unmodded (Vanilla) Minecraft. One side hunts, the other hides and completes objectives — the map focuses on atmosphere, exploration, and teamwork.
+Until Dawn Breaks is an asymmetric survival/adventure map designed for Lightly modded Minecraft. One side hunts, the other hides and completes objectives — the map focuses on atmosphere, exploration, and teamwork.
 
 Key features:
 - Vanilla Supported: (Mods not needed) Its recommended to use Simple voice chat and Essential for hosting to friends.
