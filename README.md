@@ -45,6 +45,14 @@ Option 3 — Quick Play (LAN)
 1. Open the map in singleplayer.
 2. Use "Open to LAN" so friends on the same network can join.
 
+Option 4 - Essential Mod (Recommended)
+1. Download the map from Modrinth
+2. Start minecraft with the Essential mod
+3. Add your friends (If you havent)
+4. Load the world
+5. Go in the pause menu and click "Invite" or "Host"
+6. Invite your friends
+
 ---
 
 ## How to Play
