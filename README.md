@@ -132,7 +132,7 @@ Example markdown:
 ---
 
 ## License
-Apache licence 2.0
+GPL3.0
 
 ---
 
