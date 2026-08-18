@@ -110,10 +110,8 @@ If the map uses custom commands or signs, list them here. Example:
 ---
 
 ## Troubleshooting
-- There are no NPCs with custom AI in this map. Any non-player characters you see are vanilla entities: the "NPCs" in the lobby are just vanilla cats and the visible player avatars (the contributors). The only human avatars present by default are the map authors/contributors — K4pselll (owner) and grabron567 (contributor).
 - If you expected interactive NPCs, note that this map does not include modded AI NPCs. For AI-driven characters you'd need server plugins or mods that supply NPC behavior.
-- If command blocks don't work, ensure `enable-command-block=true` is set in server.properties.
-- If textures look wrong, ensure any provided resource pack is installed and selected.
+- If command blocks don't work, ensure gamerule `command-blocks-enabled` is set to true
 
 ---
 
@@ -126,8 +124,8 @@ Example:
 ---
 
 ## Changelog
-- v0.1 — Initial playtest build (YYYY-MM-DD)
-- v0.2 — Bug fixes, spawn adjustments (YYYY-MM-DD)
+- ...We added cats (V0.1)
+- Added a seat for the "Chmurek" and "Mruczek" cat. (V0.2)
 
 ---
 
@@ -136,7 +134,6 @@ Example:
 - Building assistance: grabron567
 - Inspiration: Bite by Night (ROBLOX), Dead by Daylight
 
-(Consider linking GitHub handles or profiles for contributors.)
 
 ---
 
