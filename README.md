@@ -48,7 +48,7 @@ Replace "insert-tested-version-here" with the exact Minecraft version you tested
 
 ## Download & Installation
 Option 1 — From Releases
-1. Download the latest release zip from Releases on GitHub.
+1. Download the latest release zip from Releases on [Modrinth](https://modrinth.com/mod/till-dawn-breaks)
 2. Extract the folder and move it to:
    - Windows: %appdata%\.minecraft\saves\
    - macOS: ~/Library/Application Support/minecraft/saves/
