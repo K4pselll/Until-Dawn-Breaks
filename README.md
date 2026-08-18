@@ -1,6 +1,6 @@
 # Until Dawn Breaks
 
-A tense, asymmetric Minecraft map for Vanilla play — designed for PvP/PvE hide-and-seek style sessions with atmosphere and scares.
+A tense, asymmetric Minecraft map  — designed for Survivors vs kliller hide-and-seek style sessions with atmosphere.
 
 Status: Work-in-progress / Playtest
 Recommended players: 4 (minimum 2)
@@ -11,8 +11,8 @@ Recommended players: 4 (minimum 2)
 Until Dawn Breaks is an asymmetric survival/adventure map built for unmodded (Vanilla) Minecraft. One side hunts, the other hides and completes objectives — the map focuses on atmosphere, exploration, and teamwork.
 
 Key features:
-- Vanilla-friendly (no mods required)
-- Asymmetric roles and objectives
+- Vanilla Supported: (Mods not needed) Its recommended to use Simple voice chat and Essential for hosting to friends.
+- A symmetric roles and objectives
 - Built for cooperative play and replayability
 - Custom map areas, puzzles, and jump-scare set pieces
 
