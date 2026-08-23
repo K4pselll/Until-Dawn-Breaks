@@ -48,7 +48,7 @@ Replace "insert-tested-version-here" with the exact Minecraft version you tested
 
 ## Download & Installation
 Option 1 — From Releases
-1. Download the latest release zip from Releases on [Modrinth](https://modrinth.com/mod/till-dawn-breaks)
+1. Download the latest release zip from Releases
 2. Extract the folder and move it to:
    - Windows: %appdata%\.minecraft\saves\
    - macOS: ~/Library/Application Support/minecraft/saves/
@@ -71,7 +71,7 @@ Optional — Essential mod (recommended for easy hosting/invites)
 ---
 
 ## How to Play
-- Game objective: Survivors must Escape before the Hunter finds and eliminates them. (Update this with the exact objective names and win conditions.)
+- Game objective: Survivors must Escape before the Hunter finds and eliminates them.
 - Roles:
   - Survivors: Explore, solve puzzles, complete objectives, avoid detection.
   - Hunter: Track and eliminate survivors before objectives are completed.
@@ -85,21 +85,16 @@ Optional — Essential mod (recommended for easy hosting/invites)
 
 ## Rules & Recommended Settings
 Recommended server/gamerule settings used during testing:
-- Difficulty: Normal (or Hard — specify)
-- Game mode: Adventure (or Survival — specify)
+- Difficulty: Normal
+- Game mode: Adventure
 - enable-command-block=true
-- keepInventory: false
+- keepInventory: true
 - spawn-protection=0
-- doMobSpawning: true/false (specify)
+- doMobSpawning: false
 
 Add or adjust these to match how you tested the map.
 
 ---
-
-## Controls & Commands
-If the map uses custom commands or signs, list them here. Example:
-- /say start — start a round
-- /gamerule doMobSpawning false
 
 ---
 
