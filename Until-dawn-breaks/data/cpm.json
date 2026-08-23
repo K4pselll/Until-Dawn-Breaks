@@ -1,0 +1,29 @@
+{
+  "__COMMENT1": "To apply this configuration to all newly generated worlds",
+  "__COMMENT2": "please place this configuration file into your config directory",
+  "__COMMENT3": "with the following name: cpm-server-default.json",
+  "skins": {},
+  "player_scaling": {
+    "21fb62a5-44f4-4ec5-aa5b-4982a2290df0": {},
+    "3d55a725-e5ed-46de-9965-a25e530ce2ca": {}
+  },
+  "player_scaling_settings": {},
+  "scaling_settings": {
+    "mining_speed": {},
+    "motion": {},
+    "third_person": {},
+    "mob_visibility": {},
+    "knockback_resist": {},
+    "reach": {},
+    "health": {},
+    "jump_height": {},
+    "attack_speed": {},
+    "safe_fall_distance": {},
+    "defense": {},
+    "attack_knockback": {},
+    "step_height": {},
+    "attack_dmg": {},
+    "fall_damage": {},
+    "entity": {}
+  }
+}

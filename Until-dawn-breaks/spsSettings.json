@@ -1,0 +1,13 @@
+{
+  "gameType": "ADVENTURE",
+  "difficulty": "NORMAL",
+  "difficultyLocked": false,
+  "cheats": true,
+  "invited": [
+    "21fb62a5-44f4-4ec5-aa5b-4982a2290df0"
+  ],
+  "shareResourcePack": false,
+  "oppedPlayers": [
+    "21fb62a5-44f4-4ec5-aa5b-4982a2290df0"
+  ]
+}
