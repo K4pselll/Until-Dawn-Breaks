@@ -71,7 +71,7 @@ Optional — Essential mod (recommended for easy hosting/invites)
 ---
 
 ## How to Play
-- Game objective: Survivors must complete X objectives before the Hunter finds and eliminates them. (Update this with the exact objective names and win conditions.)
+- Game objective: Survivors must Escape before the Hunter finds and eliminates them. (Update this with the exact objective names and win conditions.)
 - Roles:
   - Survivors: Explore, solve puzzles, complete objectives, avoid detection.
   - Hunter: Track and eliminate survivors before objectives are completed.
