@@ -8,6 +8,7 @@ Recommended players: 4 (minimum 2)
 ---
 
 ## Table of Contents
+- Gallery
 - Overview
 - Requirements
 - Download & Installation
