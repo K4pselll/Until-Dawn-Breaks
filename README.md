@@ -27,12 +27,9 @@ Recommended players: 4 (minimum 2)
 ---
 
 ## Gallery
-Add a collection of screenshots and gameplay images here to showcase the map's atmosphere, key areas, and gameplay moments. Place images in `assets/screenshots/`.
-
-Example gallery:
-![Lobby area](assets/screenshots/lobby.png)
-![Forest section](assets/screenshots/forest.png)
-![Hunter's starting point](assets/screenshots/hunter-spawn.png)
+!["Mruczek"](Gallery/Gallery1.png)
+!["Chmurek"](Gallery/Gallery2.png)
+![Creators](Gallery/Gallery3.png)
 
 ---
 
