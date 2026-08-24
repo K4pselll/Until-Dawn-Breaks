@@ -31,6 +31,9 @@ Recommended players: 4 (minimum 2)
 !["Mruczek"](Gallery/Gallery1.png)
 !["Chmurek"](Gallery/Gallery2.png)
 ![Creators](Gallery/Gallery3.png)
+![Lobby](Gallery/Gallery4)
+![Campfire](Gallery/Gallery5)
+
 
 ---
 
@@ -80,7 +83,7 @@ Optional — Essential mod (recommended for easy hosting/invites)
 ---
 
 ## How to Play
-- Game objective: Survivors must Escape before the Hunter finds and eliminates them.
+- Game objective: Survivors must Escape before the Killer finds and eliminates them.
 - Roles:
   - Survivors: Explore, solve puzzles, complete objectives, avoid detection.
   - Hunter: Track and eliminate survivors before objectives are completed.
@@ -109,21 +112,13 @@ Add or adjust these to match how you tested the map.
 
 ## Tips & Strategy
 - Survivors: Stick together early, communicate, and split tasks.
-- Hunter: Learn spawn points, likely hiding spots, and use sound cues.
+- Killer: Use sound cues, and hunt for the survivors
 
 ---
 
 ## Troubleshooting
 - If you expected interactive NPCs, note that this map does not include modded AI NPCs. For AI-driven characters you'd need server plugins or mods that supply NPC behavior.
 - If command blocks don't work, ensure gamerule `command-blocks-enabled` is set to true
-
----
-
-## Screenshots / Video
-Add screenshots or a short gameplay video to show the map. Place images in `assets/screenshots/`.
-
-Example:
-![Lobby screenshot](assets/screenshots/lobby.png)
 
 ---
 
