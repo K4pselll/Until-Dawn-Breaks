@@ -26,6 +26,16 @@ Recommended players: 4 (minimum 2)
 
 ---
 
+## Gallery
+Add a collection of screenshots and gameplay images here to showcase the map's atmosphere, key areas, and gameplay moments. Place images in `assets/screenshots/`.
+
+Example gallery:
+![Lobby area](assets/screenshots/lobby.png)
+![Forest section](assets/screenshots/forest.png)
+![Hunter's starting point](assets/screenshots/hunter-spawn.png)
+
+---
+
 ## Overview
 Until Dawn Breaks is an asymmetric survival/adventure map. One side hunts; the other hides and completes objectives — the map focuses on atmosphere, exploration, and teamwork.
 
