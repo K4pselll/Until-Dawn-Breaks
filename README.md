@@ -8,6 +8,7 @@ Recommended players: 4 (minimum 2)
 ---
 
 ## Table of Contents
+- Gallery
 - Overview
 - Requirements
 - Download & Installation
@@ -17,11 +18,19 @@ Recommended players: 4 (minimum 2)
 - Tips & Strategy
 - Troubleshooting
 - Screenshots / Video
+- Shaders & Resource Packs
 - Changelog
 - Credits
 - License
 - Contributing
 - Contact
+
+---
+
+## Gallery
+!["Mruczek"](Gallery/Gallery1.png)
+!["Chmurek"](Gallery/Gallery2.png)
+![Creators](Gallery/Gallery3.png)
 
 ---
 
@@ -115,6 +124,24 @@ Add screenshots or a short gameplay video to show the map. Place images in `asse
 
 Example:
 ![Lobby screenshot](assets/screenshots/lobby.png)
+
+---
+
+## Shaders & Resource Packs
+**Shaders and resource packs are optional and NOT required to play.** They are recommended only for taking enhanced screenshots and trailers.
+
+Suggested shader packs for better visuals (optional):
+- Complementary (Reimagined) — Balanced performance and quality
+- Seus Renewed — High-quality lighting and atmosphere
+- BSL Shaders — Great for horror/spooky ambiance
+
+Installation:
+1. Download a shader pack from Modrinth or CurseForge
+2. Requires Optifine or Sodium + Iris to run
+3. Install in your `.minecraft/shaderpacks/` folder
+4. Select the shader in Minecraft video settings
+
+**Note:** Shaders are performance-intensive. For actual gameplay, vanilla Minecraft is fully playable and recommended for all players.
 
 ---
 
