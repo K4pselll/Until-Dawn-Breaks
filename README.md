@@ -31,8 +31,8 @@ Recommended players: 4 (minimum 2)
 !["Mruczek"](Gallery/Gallery1.png)
 !["Chmurek"](Gallery/Gallery2.png)
 ![Creators](Gallery/Gallery3.png)
-![Lobby](Gallery/Gallery4)
-![Campfire](Gallery/Gallery5)
+![Lobby](Gallery/Gallery4.png)
+![Campfire](Gallery/Gallery5.png)
 
 
 ---
