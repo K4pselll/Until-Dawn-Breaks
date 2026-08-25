@@ -6,6 +6,9 @@
       "minecraft:stone_sword": 1,
       "minecraft:leather_chestplate": 1
     },
+    "minecraft:killed_by": {
+      "minecraft:player": 189
+    },
     "minecraft:picked_up": {
       "minecraft:diamond_axe": 1,
       "minecraft:music_disc_wait": 5,
@@ -115,7 +118,7 @@
       "minecraft:goat_horn": 3,
       "minecraft:red_nether_bricks": 96,
       "minecraft:written_book": 7,
-      "minecraft:dirt": 134,
+      "minecraft:dirt": 129,
       "minecraft:sand": 1,
       "minecraft:glow_lichen": 4,
       "minecraft:redstone_block": 20,
@@ -136,7 +139,7 @@
       "minecraft:enchanted_golden_apple": 1,
       "minecraft:end_rod": 2,
       "minecraft:black_stained_glass": 1,
-      "minecraft:bedrock": 7,
+      "minecraft:bedrock": 2,
       "minecraft:oak_fence": 1,
       "minecraft:oak_trapdoor": 2,
       "minecraft:grass_block": 520,
@@ -194,6 +197,11 @@
       "minecraft:spruce_sapling": 251,
       "minecraft:heavy_weighted_pressure_plate": 2
     },
+    "minecraft:mined": {
+      "minecraft:oak_button": 1,
+      "minecraft:spruce_log": 2,
+      "minecraft:redstone_wire": 1
+    },
     "minecraft:killed": {
       "minecraft:husk": 1,
       "minecraft:mannequin": 4,
@@ -247,25 +255,20 @@
       "minecraft:writable_book": 1,
       "minecraft:cod": 1
     },
-    "minecraft:mined": {
-      "minecraft:oak_button": 1,
-      "minecraft:spruce_log": 2,
-      "minecraft:redstone_wire": 1
-    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 68227,
-      "minecraft:leave_game": 43,
+      "minecraft:time_since_rest": 65120,
+      "minecraft:leave_game": 41,
       "minecraft:damage_taken": 87292,
       "minecraft:mob_kills": 5,
       "minecraft:boat_one_cm": 13397,
       "minecraft:damage_absorbed": 113,
       "minecraft:open_shulker_box": 2,
-      "minecraft:time_since_death": 68225,
+      "minecraft:time_since_death": 65118,
       "minecraft:open_enderchest": 1,
       "minecraft:inspect_dispenser": 10,
       "minecraft:swim_one_cm": 29115,
-      "minecraft:total_world_time": 2392867,
-      "minecraft:crouch_one_cm": 261014,
+      "minecraft:total_world_time": 2389554,
+      "minecraft:crouch_one_cm": 260840,
       "minecraft:deaths": 269,
       "minecraft:player_kills": 47,
       "minecraft:damage_dealt_resisted": 12,
@@ -274,12 +277,12 @@
       "minecraft:damage_blocked_by_shield": 530,
       "minecraft:damage_resisted": 41161,
       "minecraft:inspect_dropper": 1,
-      "minecraft:walk_one_cm": 2846574,
+      "minecraft:walk_one_cm": 2839657,
       "minecraft:walk_under_water_one_cm": 13959,
       "minecraft:damage_dealt": 32041,
       "minecraft:interact_with_lectern": 41,
-      "minecraft:play_time": 2392661,
-      "minecraft:jump": 18811,
+      "minecraft:play_time": 2389554,
+      "minecraft:jump": 18800,
       "minecraft:play_record": 4,
       "minecraft:drop": 173,
       "minecraft:open_barrel": 1,
@@ -287,14 +290,11 @@
       "minecraft:open_chest": 37,
       "minecraft:inspect_hopper": 2,
       "minecraft:fall_one_cm": 455611,
-      "minecraft:fly_one_cm": 30372069,
+      "minecraft:fly_one_cm": 30338079,
       "minecraft:interact_with_anvil": 3,
       "minecraft:walk_on_water_one_cm": 14334,
-      "minecraft:sneak_time": 114288,
+      "minecraft:sneak_time": 114072,
       "minecraft:interact_with_grindstone": 1
-    },
-    "minecraft:killed_by": {
-      "minecraft:player": 189
     }
   },
   "DataVersion": 4903

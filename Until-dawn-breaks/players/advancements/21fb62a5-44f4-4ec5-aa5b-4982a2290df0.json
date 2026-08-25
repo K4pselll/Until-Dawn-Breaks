@@ -1605,6 +1605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_golden_dandelion": {
+    "criteria": {
+      "has_golden_dandelion": "2026-08-23 22:34:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2026-08-23 22:34:10 +0200"
@@ -1616,12 +1622,6 @@
       "minecraft:cat": "2026-08-23 22:34:10 +0200"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/yellow_dye_from_golden_dandelion": {
-    "criteria": {
-      "has_golden_dandelion": "2026-08-23 22:34:35 +0200"
-    },
-    "done": true
   },
   "minecraft:recipes/food/suspicious_stew_from_golden_dandelion": {
     "criteria": {
